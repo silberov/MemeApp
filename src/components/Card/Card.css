@@ -1,0 +1,13 @@
+.MemeCard img {
+  width: 100%;
+}
+
+.MemeCard {
+  text-align: center;
+  font-weight: 500;
+  background-color: rgb(240, 240, 240);
+}
+
+.MemeCard p {
+  padding-bottom: 20px;
+}
